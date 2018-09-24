@@ -3,7 +3,7 @@
 
 import sys
 import pygame
-from settings import Settings
+from src.alien_invasion.settings import Settings
 
 def run_game():
     """
